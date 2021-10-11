@@ -2271,3 +2271,11 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+
+  .custom_icon {
+    color: #f56a6a;
+    font-size: 5rem;
+    padding: 20px;
+    margin: 25px;
+  }
